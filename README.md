@@ -1,5 +1,4 @@
 ## LSTM Stock Price Prediction
-This repository contains a Jupyter notebook demonstrating the use of a Long Short-Term Memory (LSTM) network for predicting stock prices. The model uses historical stock price data, technical indicators, and the S&P 500 index as inputs to forecast future stock prices.
 
 ### Overview
 The project utilizes an LSTM model to predict stock prices based on historical data. 
