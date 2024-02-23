@@ -8,9 +8,9 @@ The enhanced model now incorporates earnings data alongside other features to im
 
 ### Results
 
-|                                           Loss                                            |                                           Prediction                                            |
-| :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
-| ![Model](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/output/loss.png) | ![Model](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/output/prediction.png) |
+|                                           AAPL                                            |                                           TSM                                            | TSLA                                                                                      |
+| :---------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------- |
+| ![Model](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/output/AAPL.png) | ![Model](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/output/TSM.png) | ![Model](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/output/TSLA.png) |
 
 ### Data Preprocessing
 
@@ -45,7 +45,7 @@ The LSTM model consists of:
 
 The model's performance was evaluated using the following metrics:
 
-- R-squared (R²): 0.89, indicating a high level of predictive accuracy
-- Mean Absolute Percentage Error (MAPE): 1.8%, suggesting low prediction errors
+- R-squared (R²): 0.87 on average, indicating a high level of predictive accuracy
+- Mean Absolute Percentage Error (MAPE): 2.0% on average, suggesting low prediction errors
 
 ![Model](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/output/score.png)
