@@ -54,4 +54,4 @@ The model's performance was evaluated using the following metrics:
 - R-squared (R²): 0.87 on average, indicating a high level of predictive accuracy
 - Mean Absolute Percentage Error (MAPE): 2.0% on average, suggesting low prediction errors
 
-![Model](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/output/score.png)
+![Model](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/predictions/score.png)
