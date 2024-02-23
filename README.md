@@ -8,9 +8,11 @@ The enhanced model now incorporates earnings data alongside other features to im
 
 ### Results
 
-|                                           AAPL                                            |                                           TSM                                            | TSLA                                                                                      |
-| :---------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------- |
-| ![Model](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/output/AAPL.png) | ![Model](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/output/TSM.png) | ![Model](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/output/TSLA.png) |
+|                                              AAPL                                              |                                             MSFT                                              |
+| :--------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+| ![AAPL Model](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/output/AAPL.png) | ![TSM Model](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/output/MSFT.png) |
+|                                              TSLA                                              |                                              TSM                                              |
+| ![TSLA Model](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/output/TSLA.png) | ![MSFT Model](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/output/TSM.png) |
 
 ### Data Preprocessing
 
