@@ -45,7 +45,7 @@ The LSTM model consists of:
 
 The model's performance was evaluated using the following metrics:
 
-- R-squared (R²): 0.86, indicating a high level of predictive accuracy
-- Mean Absolute Percentage Error (MAPE): 2.2%, suggesting low prediction errors
+- R-squared (R²): 0.89, indicating a high level of predictive accuracy
+- Mean Absolute Percentage Error (MAPE): 1.8%, suggesting low prediction errors
 
 ![Model](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/output/score.png)
