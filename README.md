@@ -8,11 +8,15 @@ The enhanced model now incorporates earnings data alongside other features to im
 
 ### Results
 
-|                                              AAPL                                              |                                             MSFT                                              |
-| :--------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
-| ![AAPL Model](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/output/AAPL.png) | ![TSM Model](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/output/MSFT.png) |
-|                                              TSLA                                              |                                              TSM                                              |
-| ![TSLA Model](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/output/TSLA.png) | ![MSFT Model](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/output/TSM.png) |
+|                                             AAPL                                              |                                             MSFT                                             |
+| :-------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: |
+| ![AAPL](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/predictions/AAPL.png) | ![TSM](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/predictions/MSFT.png) |
+|                                             TSLA                                              |                                             TSM                                              |
+| ![TSLA](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/predictions/TSLA.png) | ![MSFT](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/predictions/TSM.png) |
+
+|                                             Training Loss                                              |
+| :----------------------------------------------------------------------------------------------------: |
+| ![Training Loss](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/predictions/loss.png) |
 
 ### Data Preprocessing
 
