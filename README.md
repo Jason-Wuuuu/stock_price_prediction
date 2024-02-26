@@ -8,9 +8,9 @@ The enhanced model now incorporates earnings data alongside other features to im
 
 ### Results
 
-|                                             AAPL                                              |                                             MSFT                                              |
+|                                             AAPL                                              |                                             PLTR                                              |
 | :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
-| ![AAPL](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/predictions/AAPL.png) | ![MSFT](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/predictions/MSFT.png) |
+| ![AAPL](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/predictions/AAPL.png) | ![PLTR](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/predictions/PLTR.png) |
 |                                             TSLA                                              |                                             NVDA                                              |
 | ![TSLA](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/predictions/TSLA.png) | ![NVDA](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/predictions/NVDA.png) |
 
@@ -52,7 +52,7 @@ The LSTM model consists of:
 The model's performance was evaluated using the following metrics:
 
 - R-squared (R²): 0.97, indicating a very high level of predictive accuracy.
-- Adjusted R-squared: 0.94, ensuring that the model's predictive power is reliable even when adjusted for the number of predictors.
+- Adjusted R-squared: 0.96, ensuring that the model's predictive power is reliable even when adjusted for the number of predictors.
 - Mean Absolute Percentage Error (MAPE): 0.01%, suggesting extremely low prediction errors.
 
 ![Model](https://github.com/Jason-Wuuuu/stock_price_prediction/blob/main/predictions/score.png)
