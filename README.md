@@ -42,7 +42,7 @@ The dataset was obtained from Yahoo Finance using the yfinance library and then 
 
 The LSTM model consists of:
 
-- Bidirectional LSTM layers to capture patterns from both past and future data points
+- LSTM layers to capture patterns from past data points
 - Dense layers with L1_L2 regularization to mitigate overfitting
 - Dropout layers to improve generalization
 - An EarlyStopping callback is employed to halt training when the validation loss ceases to decrease, preventing overfitting.
